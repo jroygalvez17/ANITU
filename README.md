@@ -1,5 +1,8 @@
 # ANITU Files
 
+## System Architecture
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/System%20Architecture.png "System Architecture")
+
 ## Create Database
 ```
 create database called FinalExam
@@ -39,3 +42,19 @@ configure table with columns for SignalID, Samples, Averge, Hertz, date
 7. Make sure to import the pages and routes in frontend/raspi/gui/src/ index.js
 8. Refresh the page and click the Application page to view the chart of Samples and Hertz as you add values to SQL.
 ```
+
+## Pages and Views
+
+## System Architecture
+
+### Home Page
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/Home%20Page.png "Home Page")
+
+### Application Page
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/Application%20Page.png "Application Page")
+
+### About Page
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/About%20Page.png "About Page")
+
+
+
