@@ -3,6 +3,13 @@
 ## System Architecture
 ![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/System%20Architecture.png "System Architecture")
 
+## Demo
+### Introduction
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2Y7Ce4jzWuY
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### Demo in Action
 ## Create Database
 ```
 create database called FinalExam
