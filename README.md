@@ -45,8 +45,6 @@ configure table with columns for SignalID, Samples, Averge, Hertz, date
 
 ## Pages and Views
 
-## System Architecture
-
 ### Home Page
 ![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/Home%20Page.png "Home Page")
 
