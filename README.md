@@ -1,7 +1,6 @@
 # ANITU Files
 
 ## System Architecture
-Inline-style: 
 ![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/System%20Architecture.png "System Architecture")
 
 ## Create Database
@@ -47,12 +46,15 @@ configure table with columns for SignalID, Samples, Averge, Hertz, date
 ## Pages and Views
 
 ## System Architecture
-Inline-style: 
-![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/About%20Page.png "About Page")
 
-Inline-style: 
+### Home Page
 ![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/Home%20Page.png "Home Page")
 
-Inline-style: 
+### Application Page
 ![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/Application%20Page.png "Application Page")
+
+### About Page
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/About%20Page.png "About Page")
+
+
 
