@@ -1,5 +1,9 @@
 # ANITU Files
 
+## System Architecture
+Inline-style: 
+![alt text](https://github.com/jroygalvez17/ANITU/blob/master/Screenshots/System%20Architecture.png "System Architecture")
+
 ## Create Database
 ```
 create database called FinalExam
