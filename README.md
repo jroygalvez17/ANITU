@@ -5,9 +5,10 @@
 
 ## Demo
 ### Introduction
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Y7Ce4jzWuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Demo in Action
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2Y7Ce4jzWuY/0.jpg)](http://www.youtube.com/watch?v=2Y7Ce4jzWuY)
+
 ## Create Database
 ```
 create database called FinalExam
