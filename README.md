@@ -6,6 +6,10 @@
 ## Demo
 ### Introduction
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cjoSDI3xH1E
+" target="_blank"><img src="http://img.youtube.com/vi/cjoSDI3xH1E/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="100%" height="100%" border="10" /></a>
+
 ### Demo in Action
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2Y7Ce4jzWuY
 " target="_blank"><img src="http://img.youtube.com/vi/2Y7Ce4jzWuY/0.jpg" 
